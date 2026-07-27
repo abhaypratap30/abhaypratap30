@@ -1,16 +1,55 @@
-## Hi there 👋
+# Abhay Pratap Singh
 
-<!--
-**abhaypratap30/abhaypratap30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Team Leader | Flutter Developer
 
-Here are some ideas to get you started:
+I build Android and iOS applications using Flutter with a focus on scalable architecture, IoT integration, and production-ready mobile solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Along with Flutter, I work with AI-assisted development workflows to build and prototype backend services, web applications, and deployment solutions. I enjoy learning modern technologies and continuously expanding my full-stack development skills.
+
+## Tech Stack
+
+### Mobile Development
+- Flutter
+- Dart
+- Android
+- iOS
+
+### State Management
+- Provider
+- Riverpod
+- GetX
+- BLoC
+
+### Backend & APIs
+- Firebase
+- REST APIs
+- Node.js (AI-assisted)
+- Express.js (AI-assisted)
+
+### Databases
+- Firestore
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### IoT
+- BLE
+- MQTT
+- Wi-Fi Communication
+
+### DevOps & Tools
+- Git
+- GitHub
+- VPS Deployment
+- Linux
+- Docker (Learning)
+
+### Currently Exploring
+- React.js
+- Next.js
+- AI-assisted Backend Development
+- DevOps
+
+📍 Jaipur, Rajasthan, India
+
+📧 work.abhaypratap@gmail.com
