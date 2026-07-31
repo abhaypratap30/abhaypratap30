@@ -48,7 +48,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 - PostgreSQL
 - MongoDB
 
-### 🛠 Development Tools
+###  Development Tools
 - Git
 - GitHub
 - Android Studio
@@ -67,7 +67,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
