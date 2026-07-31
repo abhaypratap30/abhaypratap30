@@ -59,23 +59,65 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 
 ##  GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaypratap30&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypratap30&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats-eta-sepia-tty67hzbj3.vercel.app/api?username=abhaypratap30&show_icons=true&theme=github_dark&hide_border=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats-eta-sepia-tty67hzbj3.vercel.app/api/top-langs/?username=abhaypratap30&layout=compact&theme=github_dark&hide_border=true)
+
+
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhaypratap30&theme=github-dark&hide_border=true)
+
+
 
 ---
 
 ##  Technologies
 
+
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
+
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+
+
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+
+
+
+
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge)
+
+
+
+
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
