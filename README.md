@@ -91,6 +91,10 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 - Neon Attack
 - Bluetooth Terminal
 - HomeyRobo
+- iConnect
+- Taxi Rider Iceland
+- Justspai
+- BLE Bangle
 ---
 
 ##  Connect With Me
