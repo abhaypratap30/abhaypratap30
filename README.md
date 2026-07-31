@@ -16,7 +16,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 - Android
 - iOS
 
-### 🏛 Architecture & State Management
+###  Architecture & State Management
 - Clean Architecture
 - Provider
 - Riverpod
