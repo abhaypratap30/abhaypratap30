@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abhay Pratap Singh
+# Hi, I'm Abhay Pratap Singh
 
 ### Software Team Leader | Flutter Developer | IoT Mobile Application Developer
 
@@ -8,9 +8,9 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 📱 Mobile Development
+###  Mobile Development
 - Flutter
 - Dart
 - Android
@@ -23,7 +23,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 - GetX
 - BLoC
 
-### 🔥 Firebase & Backend
+###  Firebase & Backend
 - Firebase Authentication
 - Cloud Firestore
 - Realtime Database
@@ -33,7 +33,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 - Socket
 - WebSocket
 
-### 🌐 IoT Technologies
+###  IoT Technologies
 - BLE (Bluetooth Low Energy)
 - MQTT
 - Wi-Fi Communication
@@ -41,7 +41,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 - Camera Integration
 - Sensor Integration
 
-### 💾 Database
+###  Database
 - Firestore
 - Hive
 - MySQL
@@ -57,7 +57,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaypratap30&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -80,7 +80,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - Oxy Vault
 - Oxymora CRM
@@ -93,7 +93,7 @@ My expertise includes Flutter, Firebase, REST APIs, BLE, MQTT, and scalable mobi
 - HomeyRobo
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 📍 Jaipur, Rajasthan, India
 
