@@ -42,7 +42,6 @@ Along with Flutter, I work with AI-assisted development workflows to build and p
 - GitHub
 - VPS Deployment
 - Linux
-- Docker (Learning)
 
 ### Currently Exploring
 - React.js
